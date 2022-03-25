@@ -1,0 +1,30 @@
+{
+  "name": "tim-generate-usersig",
+  "version": "1.0.0",
+  "description": "t im generate user sign",
+  "keywords": [
+    "babel",
+    "config",
+    "pandora"
+  ],
+  "homepage": "https://github.com/kingller/tim-generate-usersig",
+  "bugs": {
+    "url": "https://github.com/kingller/tim-generate-usersig/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kingller/tim-generate-usersig.git"
+  },
+  "license": "MIT",
+  "author": "Kingller Tang",
+  "main": "lib-generate-test-usersig-es.min.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12.22.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
