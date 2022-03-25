@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "t im generate user sign",
   "keywords": [
-    "babel",
-    "config",
-    "pandora"
+    "tim",
+    "generate",
+    "usersig"
   ],
   "homepage": "https://github.com/kingller/tim-generate-usersig",
   "bugs": {
